@@ -8,7 +8,7 @@
   "server": {
     "ip": "criticallysmp.falixsrv.me",
     "port": 38077,
-    "version": "1.21",
+    "version": "auto",
     "try-creative": false
   },
   "position": {
